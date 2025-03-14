@@ -1,9 +1,6 @@
-# 🌟 Shivam Chaudhari
-
 <h1 align="center">Hi 👋, I'm Shivam Shrirang Chaudhari</h1>
 <h3 align="center">I am a Computer Science Engineering student with a passion for solving real-world problems through innovative software solutions. I enjoy working with cutting-edge technologies and am dedicated to learning and growing in the tech field.</h3>
 
-![Banner Image](https://github.com/ShivamChaudhari19/raw/blob/main/Black%20and%20White%20Simple%20Art%20Director%20LinkedIn%20Banner.png)
 
 [![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FShivamChaudhari19%2FShivamChaudhari19&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)
 
@@ -42,10 +39,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ShivamChaudhari19&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ShivamChaudhari19&theme=tokyonight" alt="GitHub Streak" />
+  <img width="46.9%" height="45%" src="https://github-readme-stats.vercel.app/api?username=ShivamChaudhari19&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  
+  <img width="50%" height="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=ShivamChaudhari19&theme=tokyonight" alt="GitHub Streak" />
   <br>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamChaudhari19&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <br>
+  <img width="50%" height="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamChaudhari19&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
